@@ -8,4 +8,4 @@
 Link deploy : [deploy](https://landing-page-rayrednet.vercel.app/)
 
 ## Tugas Landing Page
-Website landing page yang dibuat merupakan tugas untuk mata kuliah Pemrograman Web yang dimana merupakan website fiktif untuk mempelajari CSS. *Semua foto dan informasi yang terdapat di web diambil dari legally free source di internet dan bukan merupakan data asli.*
+Website landing page yang dibuat merupakan tugas untuk mata kuliah Pemrograman Web yang dimana merupakan website fiktif untuk mempelajari CSS. **Semua foto dan informasi yang terdapat di web diambil dari legally free source di internet dan bukan merupakan data asli.**
